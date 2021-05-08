@@ -19,6 +19,7 @@ The average Place Points and the average Kill Points by the team before the fina
 EXAMPLE
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |---|---|---|---|
-|SQ|3.4|5.6|1|
-|ZEN|2.4|5.5|2|
-|MCG|3.9|4|3|
+|GEN|3.1|4.5|1|
+|META|2.7|4.6|2|
+|IFTY|2|5|3|
+|DA|2.8|4.1|4|
