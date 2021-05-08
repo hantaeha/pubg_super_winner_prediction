@@ -26,7 +26,7 @@ EXAMPLE
   
 For more information about data, refer to 'Sheet' & 'Train_Data' folders.  
   
-데이터에 대한 자세한 정보는 'sheet'과 'Train_Data' 폴더를 참조하십시오.  
+데이터에 대한 자세한 정보는 'Sheet'과 'Train_Data' 폴더를 참조하십시오.  
   
 # Model Design  
 - Sequential Model
