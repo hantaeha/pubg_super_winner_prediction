@@ -14,7 +14,7 @@ This Machine Learning Model can be used for Pick'em Challange's Top 4 event.
 - Keras 2.3.1
   
 # Data Type  
-The average of Place Points and the average of Kill Points by the team before the final match were used as data. 
+The average of Place Points and the average of Kill Points by the team before the final match were used as train data. 
 
 최종 경기 전까지의 팀별 평균 Place Point와 평균 Kill Point를 훈련 데이터로 사용했습니다.  
   
