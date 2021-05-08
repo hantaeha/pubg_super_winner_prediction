@@ -18,8 +18,8 @@ The average of Place Points and the average of Kill Points by the team before th
 
 최종 경기 전까지의 팀별 평균 Place Point와 평균 Kill Point를 훈련 데이터로 사용했습니다.  
   
-|X1|X2|Y||
-|---|---|---|---|
+|X1|X2|Y|
+|---|---|---|
 |MEAN VALUE OF PLACE POINT|MEAN VALUE OF KILL POINTS|RANK|
   
 EXAMPLE
