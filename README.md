@@ -23,3 +23,7 @@ EXAMPLE
 |META|2.7|4.6|2|
 |IFTY|2|5|3|
 |DA|2.8|4.1|4|
+  
+# Model Design  
+- Sequential Model
+- activation function : sigmoid, relu, softmax
