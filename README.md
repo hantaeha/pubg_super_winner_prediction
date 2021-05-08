@@ -33,7 +33,7 @@ EXAMPLE
 - Based on the results of PGI.S matches until Week5
 - Rank Decision, Bottom 16, Weekly Final data used (Super Rule Games Only)
 - 272 Rank data used
-- 30,000 Epochs progressed
+* 30,000 Epochs progressed
   
 - 이 모델은 Weekly Final 6주 차의 최종 승자를 예측하는 것을 목표로 합니다
 - PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다
