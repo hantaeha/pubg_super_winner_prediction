@@ -12,7 +12,7 @@ Designed based on 'Super Rule', but the user can use this Machine Learning Model
 - Keras 2.3.1
   
 # Data Type  
-The average Place Points and the average Kill Points by the team before the final match were used as train data.  
+The average of Place Points and the average of Kill Points by the team before the final match were used as data. 
 
 최종 경기 전까지의 팀별 평균 Place Points와 평균 Kill Points를 훈련 데이터로 사용했습니다.  
   
