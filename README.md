@@ -1,11 +1,13 @@
 # ML-BASED PUBG SUPER RULE PREDICTION PROJECT  
 
 This project aims to predict the final winner of PUBG Series.  
-Designed based on 'Super Rule', but the user can use this Machine Learning Model to compare the overall power of PUBG teams ('WWCD Rule' Games included).    
+Designed based on 'Super Rule', but the user can use this Machine Learning Model to compare the overall power of PUBG teams ('WWCD Rule' Games included).  
+This Machine Learning Model can be used for 'Pick'em Challange's Top 4 predictive events.  
   
 이 프로젝트는 PUBG 시리즈의 최종 승자를 예측하는 것을 목표로 합니다.
 'Super Rule'을 기반으로 제작되었지만, 본 머신러닝 모델로 여러 팀의 전반적인 전력을 비교할 수 있습니다 ('WWCD 규칙' 경기 포함).  
-
+본 머신러닝 모델은 'Pick'em Challange'의 Top4 예측 이벤트에 사용할 수 있습니다.
+  
 # Required Environment  
 - Python 3.6.13
 - Tensorflow 2.0.0
