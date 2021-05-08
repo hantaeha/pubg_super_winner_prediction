@@ -13,4 +13,4 @@ Super Rule을 기반으로 제작되었지만, 본 머신러닝 모델로 여러
 - Tensorflow
 - Keras
   
-  # Trained Data Type  
+# Trained Data Type  
