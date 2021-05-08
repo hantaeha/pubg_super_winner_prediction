@@ -77,7 +77,7 @@ PGI.S Week5
 PGI.S Week6  
 |RANK|PREDICTION|RESULT|
 |---|---|---|
-|1|STK|SQ|
+|1|#STK|SQ|
 |2|SQ|ZEN|
 |3|FAZE|MCG|
 |4|IFTY|4AM|
