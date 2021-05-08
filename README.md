@@ -18,7 +18,7 @@ The average Place Points and the average Kill Points by the team before the fina
   
 EXAMPLE
 |TEAM|AVERAGE PLACE POINTS|AVERGE KILL POINTS|RANK|
-|------|---|---|---|
-|테스트1|테스트2|테스트3|---|
-|테스트1|테스트2|테스트3|---|
-|테스트1|테스트2|테스트3|---|
+|---|---|---|---|
+|SQ|3.4|5.6|1|
+|ZEN|2.4|5.5|2|
+|MCG|3.9|4|3|
