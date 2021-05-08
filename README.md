@@ -7,9 +7,9 @@ Designed based on 'Super Rule', but the user can use this Machine Learning Model
 'Super Rule'을 기반으로 제작되었지만, 본 머신러닝 모델로 여러 팀의 전반적인 전력을 비교할 수 있습니다 ('WWCD 규칙' 경기 포함).  
 
 # Required Environment  
-- Python
-- Tensorflow
-- Keras
+- Python 3.6.13
+- Tensorflow 2.0.0
+- Keras 2.3.1
   
 # Data Type  
 The average Place Points and the average Kill Points by the team before the final match were used as train data.  
