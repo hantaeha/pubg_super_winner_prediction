@@ -21,6 +21,7 @@ The average of Place Points and the average of Kill Points by the team before th
 |X1|X2|Y|
 |---|---|---|
 |MEAN VALUE OF PLACE POINT|MEAN VALUE OF KILL POINTS|RANK|
+|평균 PLACE POINT|평균 KILL POINT|순위|
   
 EXAMPLE (예시)    
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
