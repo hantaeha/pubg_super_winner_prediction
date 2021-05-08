@@ -26,4 +26,5 @@ EXAMPLE
   
 # Model Design  
 - Sequential Model
-- activation function : sigmoid, relu, softmax
+- Activation function : sigmoid, relu, softmax
+- For more information, refer to 'information.txt' in Introduction folder
