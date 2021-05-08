@@ -39,7 +39,7 @@ This model aimed to predict the Winner of the Weekly Final Week6
 Based on the results of PGI.S matches until Week5  
 Rank Decision, Bottom 16, Weekly Final data used (Super Rule Games Only)  
 272 Rank data used  
-30,000 Epochs completed  
+30,000 epochs completed  
   
 이 모델은 Weekly Final 6주 차의 최종 승자를 예측하는 것을 목표로 합니다  
 PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다  
@@ -51,7 +51,7 @@ Rank Decision, Bottom 16, Weekly Final 경기 데이터가 사용되었습니다
 Extended model of PGIS_prediction_Model_W5.h5  
 Based on the results of PGI.S, ESL PUBG Masters: Americas Phase 1 and ESL PUBG Masters 2021 Europe Spring (Super Rule Games Only)  
 336 Rank data used  
-40,000 Epochs completed   
+40,000 epochs completed   
   
 PGIS_prediction_Model_W5.h5의 확장 모델입니다  
 PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring 경기 결과가 사용되었습니다 (Super Rule 게임만)  
