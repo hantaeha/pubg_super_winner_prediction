@@ -1,1 +1,1 @@
-# pubg_super_rule_prediction
+# ML BASED PUBG SUPER RULE PREDICTION PROJECT
