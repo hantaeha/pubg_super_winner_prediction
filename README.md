@@ -14,7 +14,7 @@ Designed based on 'Super Rule', but the user can use this Machine Learning Model
 # Data Type  
 The average of Place Points and the average of Kill Points by the team before the final match were used as data. 
 
-최종 경기 전까지의 팀별 평균 Place Points와 평균 Kill Points를 훈련 데이터로 사용했습니다.  
+최종 경기 전까지의 팀별 평균 Place Point와 평균 Kill Point를 훈련 데이터로 사용했습니다.  
   
 EXAMPLE
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
@@ -25,6 +25,7 @@ EXAMPLE
 |DA|2.8|4.1|4|
   
 For more information about data, refer to 'Sheet' & 'Train_Data' folders.  
+  
 데이터에 대한 자세한 정보는 'sheet'과 'Train_Data' 폴더를 참조하십시오.  
   
 # Model Design  
