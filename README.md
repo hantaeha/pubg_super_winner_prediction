@@ -56,5 +56,5 @@ PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring �
 336개의 순위 데이터가 사용되었습니다  
 40,000번 학습되었습니다  
   
-# PREDICTION (Colab)
+# Prediction (Google Colab)
   
