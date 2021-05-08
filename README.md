@@ -76,6 +76,6 @@ PGI.S Week6
 |2|SQ|ZEN|
 |3|FAZE|MCG|
 |4|IFTY|4AM|
-|5|ZEN|STK|
+|5|GEN|STK|
   
 # Demo (Google Colab)
