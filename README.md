@@ -28,14 +28,14 @@ EXAMPLE
 - Sequential Model
 - Activation function : sigmoid, relu, softmax
 
-* PGIS_Prediction_Model_W5.h5
+## PGIS_Prediction_Model_W5.h5
 - This model aimed to predict the Winner of the Weekly Final Week6
 - Based on the results of PGI.S matches until Week5
 - Rank Decision, Bottom 16, Weekly Final data used (Super Rule Games Only)
 - 272 Rank data used
 - 30,000 Epochs progressed
 
-* PGIS_ESL_Prediction_Model.h5
+## PGIS_ESL_Prediction_Model.h5
 - Extended model of PGIS_prediction_Model_W5.h5
 - Based on the results of PGI.S, ESL PUBG Masters: Americas Phase 1 and ESL PUBG Masters 2021 Europe Spring (Super Rule Games Only)
 - 336 Rank data used
