@@ -17,7 +17,7 @@ The average Place Points and the average Kill Points by the team before the fina
 최종 경기 전까지의 팀별 평균 Place Points와 평균 Kill Points를 훈련 데이터로 사용했습니다.  
   
 EXAMPLE
-|TEAM|AVERAGE PLACE POINTS|AVERGE KILL POINTS|RANK|
+|TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |---|---|---|---|
 |SQ|3.4|5.6|1|
 |ZEN|2.4|5.5|2|
