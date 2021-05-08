@@ -8,6 +8,6 @@ The average Place Points and average Kill Points by the team before the final ma
 Super Rule을 기반으로 제작되었지만, 본 머신러닝 모델로 여러 팀의 전반적인 전력을 비교할 수 있습니다 (WWCD 규칙 경기 포함).  
 최종 경기 전까지의 팀별 평균 Place Points와 평균 Kill Points를 데이터로 사용했습니다.
 
-# Requirements  
+# Required environment  
 - tensorflow
 - keras
