@@ -67,13 +67,15 @@ PGI.S Week5
 |2|VP|META|
 |3|GEN|IFTY|
 |4|SQ|DA|
+|5|T1|TIAN|
   
 PGI.S Week6  
 |RANK|PREDICTION|RESULT|
 |---|---|---|
-|1|SQ|STK|
-|2|ZEN|SQ|
-|3|MCG|FAZQ|
-|4|4AM|IFTY|
+|1|STK|SQ|
+|2|SQ|ZEN|
+|3|FAZE|MCG|
+|4|IFTY|4AM|
+|5|ZEN|STK|
   
 # Demo (Google Colab)
