@@ -10,7 +10,7 @@ This Machine Learning Model can also be used for Pick'em Challange's Top 4 predi
 'Super Rule'을 기반으로 제작되었습니다.  
 ('WWCD 규칙' 경기에도 사용 가능합니다)  
 본 머신러닝 모델로 여러 팀의 전반적인 전력을 비교할 수 있습니다.  
-이 모델은 Pick'em Challange의 Top4 예측 이벤트에 사용될 수 있습니다.  
+이 모델은 Pick'em Challange의 Top4 예측 이벤트에도 사용될 수 있습니다.  
   
 # Required Environment  
 - Python 3.6.13
