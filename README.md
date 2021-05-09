@@ -71,6 +71,8 @@ PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring �
 336개의 데이터가 사용되었습니다.  
 50,000번 학습되었습니다.  
   
+![image](Introduction/PGIS_ESL_Prediction_Model.png)  
+  
 # Results  
   
 PGI.S 2021 Week5  
