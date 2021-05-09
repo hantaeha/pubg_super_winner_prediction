@@ -89,6 +89,6 @@ PGI.S 2021 Week6
   
 You can make direct predictions using the Google Colab environment.  
   
-Google Colabe 환경을 사용하여 직접 예측하실 수 있습니다.  
+Google Colab을 사용하여 직접 예측하실 수 있습니다.  
   
 Link : [PUBG Super Rule Winner Prediction (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing) 
