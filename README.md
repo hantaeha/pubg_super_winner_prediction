@@ -100,5 +100,3 @@ Creating a Prediction Model optimized for the WWCD Rule
    
 맵별 예측 모덜 생성  
 WWCD Rule에 최적화된 예측 모델 생성  
- Creating a Prediction Model by Map  ㅊㅚ
- Creating a Prediction Model by Map  
