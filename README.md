@@ -43,8 +43,10 @@ For more information about data, refer to 'Sheet' & 'Train_Data' folders.
   
 # Model Design  
 - Two Sequential Model
-- Activation functions : sigmoid, relu, softmax
-
+- Activation functions : sigmoid, relu, softmax  
+  
+![Model] (https://github.com/hantaeha/pubg_super_winner_prediction/blob/1686d9fcf1a1488c46d3b35835a778bdbd5ec544/Introduction/Model.png)  
+  
 ### Model 1. PGIS_W5_Prediction_Model.h5
 This model aimed to predict the winner of the PGI.S 2021 Weekly Final Week6.  
 It was created based on the results until PGI.S Week5('Super Rule' games Only).  
