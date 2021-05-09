@@ -53,7 +53,7 @@ It was created based on the results until PGI.S Week5('Super Rule' games Only).
 272 data used.  
 30,000 epochs completed.  
   
-이 모델은 PGI.S 2021 Weekly Final 6주 차의 최종 승자를 예측하는 것을 목표로 합니다.  
+이 모델은 PGI.S 2021 Weekly Final 6주 차의 최종 승자 예측을 목표로 합니다.  
 PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다(Super Rule 게임만).  
 272개의 데이터가 사용되었습니다.  
 30,000번 학습되었습니다.  
