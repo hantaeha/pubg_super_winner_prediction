@@ -23,10 +23,10 @@ This Machine Learning Model can also be used for Pick'em Challange's Top 4 predi
 최종 경기 전까지의 팀별 'Place Point 평균', 'Kill Point 평균' 그리고 '순위'를 훈련 데이터로 사용했습니다.  
   
 Rank Data (순위 데이터)   
-|TEAM|X1|X2|Y|
+|TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |---|---|---|---|
-|TEAM NAME|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |팀명|평균 PLACE POINT|평균 KILL POINT|순위|
+||X1|X2|Y|
   
 Example Rank Data (순위 데이터 예시)    
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
