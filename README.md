@@ -1,4 +1,4 @@
-# ML-BASED PUBG SUPER PREDICTION PROJECT  
+# ML-BASED PUBG 'SUPER RULE' PREDICTION PROJECT  
 
 This project aims to predict the final winner of PUBG Series.  
 It was created based on 'Super Rule'.  
@@ -91,4 +91,4 @@ You can use Google Colab to try to make direct prediction.
   
 Google Colabe 환경을 사용해서 직접 예측하실 수 있습니다.  
   
-Link : [PUBG Super Prediction (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing)
+Link : [PUBG 'Super Rule' Prediction (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing)
