@@ -28,7 +28,7 @@ Type (형태)
 |MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |평균 PLACE POINT|평균 KILL POINT|순위|
   
-EXAMPLE Rank data (예시)    
+Example Rank data (예시)    
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |---|---|---|---|
 |GEN|3.1|4.5|1|
