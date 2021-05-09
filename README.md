@@ -60,12 +60,12 @@ PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다(S
 Extended model of 'PGIS_Prediction_Model_W5.h5'.  
 It was created based on the results of PGI.S, ESL PUBG Masters: Americas Phase 1 and ESL PUBG Masters 2021 Europe Spring(Super Rule Games Only).  
 336 data used.  
-40,000 epochs completed.  
+50,000 epochs completed.  
   
 'PGIS_Prediction_Model_W5.h5'의 확장 모델입니다.  
 PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring 경기 결과가 사용되었습니다(Super Rule 게임만).  
 336개의 데이터가 사용되었습니다.  
-40,000번 학습되었습니다.  
+50,000번 학습되었습니다.  
   
 # Results  
   
