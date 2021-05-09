@@ -45,7 +45,7 @@ For more information about data, refer to 'Sheet' & 'Train_Data' folders.
 - Two Sequential Model
 - Activation functions : sigmoid, relu, softmax
 
-### Model 1. PGIS_Prediction_Model_W5.h5
+### Model 1. PGIS_W5_Prediction_Model.h5
 This model aimed to predict the winner of the PGI.S 2021 Weekly Final Week6.  
 It was created based on the results until PGI.S Week5('Super Rule' games Only).  
 272 data used.  
@@ -57,12 +57,12 @@ PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다(S
 30,000번 학습되었습니다.  
   
 ### Model 2. PGIS_ESL_Prediction_Model.h5
-Extended model of 'PGIS_Prediction_Model_W5.h5'.  
+Extended model of 'PGIS_W5_Prediction_Model.h5'.  
 It was created based on the results of PGI.S, ESL PUBG Masters: Americas Phase 1 and ESL PUBG Masters 2021 Europe Spring(Super Rule Games Only).  
 336 data used.  
 50,000 epochs completed.  
   
-'PGIS_Prediction_Model_W5.h5'의 확장 모델입니다.  
+'PGIS_W5_Prediction_Model.h5'의 확장 모델입니다.  
 PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring 경기 결과가 사용되었습니다(Super Rule 게임만).  
 336개의 데이터가 사용되었습니다.  
 50,000번 학습되었습니다.  
