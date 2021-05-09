@@ -18,7 +18,7 @@ This project can also be used for Pick'em Challange's Top 4 Prediction event.
 - Keras 2.3.1
   
 # Data  
-'Mean Value of Place Points', 'Mean Value of Kill Points' and 'Rank' by team were used as training data. 
+'Mean value of Place Points', 'Mean value of Kill Points' and 'Rank' by team were used as training data. 
   
 팀별 'Place Point 평균', 'Kill Point 평균' 그리고 '순위'를 훈련 데이터로 사용했습니다.  
   
