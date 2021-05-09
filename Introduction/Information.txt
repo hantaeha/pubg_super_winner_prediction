@@ -1,4 +1,4 @@
-ML-BASED PUBG 'SUPER RULE' WINNER PREDICTION
+### ML-BASED PUBG 'SUPER RULE' WINNER PREDICTION ###
 
 This project aims to predict the final winner of PUBG Series.  
 It was created based on 'Super Rule'.  
@@ -35,3 +35,29 @@ PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다(S
 PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring 경기 결과가 사용되었습니다(Super Rule 게임만).
 336개의 데이터가 사용되었습니다.
 50,000번 학습되었습니다.
+
+### Folder Info ###
+
+[Model]
+It contains two pre-trained models and code that allows you to create different models.
+사전에 학습된 두 모델과 다른 예측 모델을 만들 수 있는 코드가 포함되어 있습니다.
+- PGIS_W5_Prediction_Model.h5
+- PGIS_ESL_Prediction_Model.h5
+- PUBG_Super_Winner_Train.ipynb
+
+[Prediction]
+Prediction code is included.
+예측 코드가 들어있습니다.
+- PUBG_Super_Winner_Prediction.ipynb
+
+[Sheet]
+This is a folder where the results of the match are organized.
+경기 결과들이 정리된 폴더입니다.
+- PGIS_DATA.xlsx
+- ESL_AP1_DATA.xlsx
+- ESL_ES_DATA.xlsx
+
+[Train_Data]
+This is a folder that summarizes match result data in a form for machine learning.
+경기 결과들이 머신러닝 학습을 위한 형태로 정리되어있습니다.
+- TRAIN_DATA_AKA_LOG.csv
