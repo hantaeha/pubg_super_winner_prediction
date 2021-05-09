@@ -69,7 +69,7 @@ PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring ê
   
 # Results  
   
-PGI.S Week5  
+PGI.S 2021 Week5  
 |RANK|PREDICTION|RESULT|
 |---|---|---|
 |1|META|GEN|
@@ -77,7 +77,7 @@ PGI.S Week5
 |3|GEN|IFTY|
 |4|SQ|DA|
   
-PGI.S Week6  
+PGI.S 2021 Week6  
 |RANK|PREDICTION|RESULT|
 |---|---|---|
 |1|STK|SQ|
