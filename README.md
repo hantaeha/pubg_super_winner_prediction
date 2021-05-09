@@ -1,4 +1,4 @@
-# ML-BASED PUBG 'SUPER RULE' PREDICTION PROJECT  
+# ML-BASED 'SUPER RULE' WINNER PREDICTION PROJECT  
 
 This project aims to predict the final winner of PUBG Series.  
 It was created based on 'Super Rule'.  
