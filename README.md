@@ -96,7 +96,7 @@ PGI.S 2021 Week6
   
 # Demo (Google Colab) 
   
-You can make direct predictions using Google Colab environment.  
+You can make direct predictions using the Google Colab environment.  
   
 Google Colab 환경에서 직접 예측하실 수 있습니다.  
   
