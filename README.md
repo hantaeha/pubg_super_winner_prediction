@@ -92,3 +92,13 @@ You can make direct predictions using the Google Colab environment.
 Google Colab을 사용하여 직접 예측하실 수 있습니다.  
   
 Link : [PUBG Super Rule Winner Prediction (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing) 
+  
+# Future Plan
+  
+Creating a Prediction Model by Map  
+Creating a Prediction Model optimized for the WWCD Rule  
+   
+맵별 예측 모덜 생성  
+WWCD Rule에 최적화된 예측 모델 생성  
+ Creating a Prediction Model by Map  ㅊㅚ
+ Creating a Prediction Model by Map  
