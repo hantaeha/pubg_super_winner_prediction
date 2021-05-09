@@ -72,7 +72,6 @@ PGI.S Week5
 |2|VP|META|
 |3|GEN|IFTY|
 |4|SQ|DA|
-|5|T1|TIAN|
   
 PGI.S Week6  
 |RANK|PREDICTION|RESULT|
@@ -81,6 +80,5 @@ PGI.S Week6
 |2|SQ|ZEN|
 |3|FAZE|MCG|
 |4|IFTY|4AM|
-|5|GEN|STK|
   
 # Demo (Google Colab) 
