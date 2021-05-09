@@ -18,9 +18,9 @@ This Machine Learning Model can also be used for Pick'em Challange's Top 4 predi
 - Keras 2.3.1
   
 # Data  
-'The average of Place Points', 'The average of Kill Points' and 'Rank' by team before the final battle were used as training data. 
+'The average of Place Points', 'The average of Kill Points' and 'Rank' by team were used as training data. 
   
-최종 경기 전까지의 팀별 'Place Point 평균', 'Kill Point 평균' 그리고 '순위'를 훈련 데이터로 사용했습니다.  
+팀별 'Place Point 평균', 'Kill Point 평균' 그리고 '순위'를 훈련 데이터로 사용했습니다.  
   
 Rank Data (순위 데이터)   
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
