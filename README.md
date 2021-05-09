@@ -42,8 +42,9 @@ For more information about data, refer to 'Sheet' & 'Train_Data' folders.
 데이터에 대한 자세한 내용은 'Sheet' 및 'Train_Data' 폴더를 참조하십시오.  
   
 # Model Design  
-- Two Sequential Model
-- Activation functions : sigmoid, relu, softmax  
+- Two Pre-Trained Model
+- Sequential Model
+- Activation Functions : Sigmoid, Relu, Softmax  
   
 ![image](Introduction/Model.png)  
   
