@@ -6,7 +6,7 @@ Users can use this Machine Learning Model to compare the overall power of PUBG t
 ('WWCD Rule' Games are also possible)  
 This Machine Learning Model can also be used for Pick'em Challange's Top 4 prediction event.  
   
-이 프로젝트는 PUBG 시리즈의 최종 승자를 예측하는 것을 목표로 합니다.
+이 프로젝트는 PUBG 시리즈의 최종 승자를 예측하는 것을 목표로 합니다.  
 'Super Rule'을 기반으로 제작되었습니다.  
 본 머신러닝 모델로 여러 팀의 전반적인 전력을 비교할 수 있습니다.  
 ('WWCD 규칙' 경기에도 사용 가능합니다)  
