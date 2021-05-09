@@ -98,5 +98,5 @@ Link : [PUBG Super Rule Winner Prediction (Google Colab)](https://colab.research
 Creating a Prediction Model by Map (Miramar & Erangel)  
 Creating a Prediction Model optimized for the 'WWCD Rule'  
    
-맵별 예측 모덜 생성 (미라마 & 에란겔)  
+맵별 예측 모델 생성 (미라마 & 에란겔)  
 'WWCD Rule'에 최적화된 예측 모델 생성  
