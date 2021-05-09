@@ -29,7 +29,7 @@ Type (형태)
 |팀명|평균 PLACE POINT|평균 KILL POINT|순위|
 
   
-Example Rank Data (순위 데이터 예시)    
+Example (예시)    
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |---|---|---|---|
 |GEN|3.1|4.5|1|
@@ -49,7 +49,7 @@ For more information about data, refer to 'Sheet' & 'Train_Data' folders.
 This model aimed to predict the winner of the PGI.S Weekly Final Week6.  
 It was created based on the results until PGI.S Week5.  
 Rank Decision, Bottom 16, Weekly Final data used('Super Rule' games Only).  
-272 Rank Data used.  
+272 data used.  
 30,000 epochs completed.  
   
 이 모델은 PSI.S Weekly Final 6주 차의 최종 승자를 예측하는 것을 목표로 합니다.  
@@ -61,7 +61,7 @@ Rank Decision, Bottom 16, Weekly Final 경기 데이터가 사용되었습니다
 ### 2. PGIS_ESL_Prediction_Model.h5
 Extended model of 'PGIS_Prediction_Model_W5.h5'.  
 It was created based on the results of PGI.S, ESL PUBG Masters: Americas Phase 1 and ESL PUBG Masters 2021 Europe Spring(Super Rule Games Only).  
-336 Rank Data used.  
+336 data used.  
 40,000 epochs completed.  
   
 'PGIS_Prediction_Model_W5.h5'의 확장 모델입니다.  
