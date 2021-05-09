@@ -1,6 +1,6 @@
 ### ML-BASED PUBG 'SUPER RULE' WINNER PREDICTION (English)###
 
-This project aims to predict the final winner of PUBG e-sports using Machine Learning Technology.
+This project aims to predict the final winner of PUBG e-sports using Machine Learning technology.
 It was created based on 'Super Rule'.
 ('WWCD Format' Games are also possible)
 Users can use this Machine Learning Model to compare the overall power of participating teams.
