@@ -87,3 +87,7 @@ PGI.S Week6
 |4|IFTY|4AM|
   
 # Demo (Google Colab) 
+  
+You can use Google Colab to try to make direct prediction.  
+  
+Google Colabe 환경을 사용해서 직접 예측하실 수 있습니다.  
