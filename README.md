@@ -46,12 +46,12 @@ For more information about data, refer to 'Sheet' & 'Train_Data' folders.
 - Activation functions : sigmoid, relu, softmax
 
 ### 1. PGIS_Prediction_Model_W5.h5
-This model aimed to predict the winner of the PGI.S Weekly Final Week6.  
+This model aimed to predict the winner of the PGI.S 2021 Weekly Final Week6.  
 It was created based on the results until PGI.S Week5('Super Rule' games Only).  
 272 data used.  
 30,000 epochs completed.  
   
-이 모델은 PSI.S Weekly Final 6주 차의 최종 승자를 예측하는 것을 목표로 합니다.  
+이 모델은 PGI.S 2021 Weekly Final 6주 차의 최종 승자를 예측하는 것을 목표로 합니다.  
 PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다(Super Rule 게임만).  
 272개의 데이터가 사용되었습니다.  
 30,000번 학습되었습니다.  
