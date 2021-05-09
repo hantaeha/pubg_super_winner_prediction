@@ -26,7 +26,7 @@ Type (형태)
 ||X1|X2|Y|
 |---|---|---|---|
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
-|팀명|PLACE POINT 평균|평균 KILL POINT 평균|순위|
+|팀명|PLACE POINT 평균|KILL POINT 평균|순위|
 
   
 Example (예시)    
