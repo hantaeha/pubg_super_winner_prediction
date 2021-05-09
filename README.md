@@ -25,10 +25,10 @@ This Machine Learning Model can also be used for Pick'em Challange's Top 4 predi
 Type (형태)   
 |X1|X2|Y|
 |---|---|---|
-|MEAN VALUE OF PLACE POINT|MEAN VALUE OF KILL POINTS|RANK|
+|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |평균 PLACE POINT|평균 KILL POINT|순위|
   
-EXAMPLE (예시)    
+EXAMPLE Rank data (예시)    
 |TEAM|MEAN VALUE OF PLACE POINTS|MEAN VALUE OF KILL POINTS|RANK|
 |---|---|---|---|
 |GEN|3.1|4.5|1|
