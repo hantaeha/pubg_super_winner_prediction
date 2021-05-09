@@ -47,8 +47,7 @@ For more information about data, refer to 'Sheet' & 'Train_Data' folders.
 
 ### 1. PGIS_Prediction_Model_W5.h5
 This model aimed to predict the winner of the PGI.S Weekly Final Week6.  
-It was created based on the results until PGI.S Week5.  
-Rank Decision, Bottom 16, Weekly Final data used('Super Rule' games Only).  
+It was created based on the results until PGI.S Week5('Super Rule' games Only).  
 272 data used.  
 30,000 epochs completed.  
   
