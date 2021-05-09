@@ -3,7 +3,7 @@
 This project aims to predict the final winner of PUBG Series.  
 It was created based on 'Super Rule'.  
 ('WWCD Rule' Games are also possible)  
-Users can use this Machine Learning model to compare the overall power of participating teams.  
+Users can use this Machine Learning Model to compare the overall power of participating teams.  
 This Machine Learning Model can also be used for Pick'em Challange's Top 4 Prediction event.  
   
 이 프로젝트는 PUBG 시리즈의 최종 승자를 예측하는 것을 목표로 합니다.  
