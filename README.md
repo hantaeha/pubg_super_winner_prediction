@@ -1,23 +1,28 @@
 # ML-BASED PUBG 'SUPER RULE' PREDICTION PROJECT  
 
 This project aims to predict the final winner of PUBG Series.  
-Designed based on 'Super Rule', but the user can use this Machine Learning Model to compare the overall power of PUBG teams ('WWCD Rule' Games also possible).  
-This Machine Learning Model can be used for Pick'em Challange's Top 4 event.  
+It was created Based on 'Super Rule'.  
+Users can use this Machine Learning Model to compare the overall power of PUBG team.  
+('WWCD Rule' Games are also possible)  
+This Machine Learning Model can also be used for Pick'em Challange's Top 4 prediction event.  
   
 이 프로젝트는 PUBG 시리즈의 최종 승자를 예측하는 것을 목표로 합니다.
-'Super Rule'을 기반으로 제작되었지만, 본 머신러닝 모델로 여러 팀의 전반적인 전력을 비교할 수 있습니다 ('WWCD 규칙' 경기 가능).  
-본 머신러닝 모델은 Pick'em Challange의 Top4 예측 이벤트에 사용할 수 있습니다.
+'Super Rule'을 기반으로 제작되었습니다.  
+본 머신러닝 모델로 여러 팀의 전반적인 전력을 비교할 수 있습니다.  
+('WWCD 규칙' 경기에도 사용 가능합니다)  
+본 머신러닝 모델은 Pick'em Challange의 Top4 예측 이벤트에 사용할 수 있습니다.  
   
 # Required Environment  
 - Python 3.6.13
 - Tensorflow 2.0.0
 - Keras 2.3.1
   
-# Data Type  
-The average of Place Points and the average of Kill Points by the team before the final match were used as train data. 
-
-최종 경기 전까지의 팀별 평균 Place Point와 평균 Kill Point를 훈련 데이터로 사용했습니다.  
+# Data  
+'The average of Place Points' and 'The average of Kill Points' by team before the final battle were used as training data. 
   
+최종 경기 전까지의 팀별 Place Point 평균과 Kill Point 평균을 훈련 데이터로 사용했습니다.  
+  
+Type (형태)   
 |X1|X2|Y|
 |---|---|---|
 |MEAN VALUE OF PLACE POINT|MEAN VALUE OF KILL POINTS|RANK|
@@ -33,15 +38,15 @@ EXAMPLE (예시)
   
 For more information about data, refer to 'Sheet' & 'Train_Data' folders.  
   
-데이터에 대한 자세한 정보는 'Sheet'과 'Train_Data' 폴더를 참조하십시오.  
+데이터에 대한 자세한 내용은 'Sheet' 및 'Train_Data' 폴더를 참조하십시오.  
   
 # Model Design  
 - Sequential Model
 - Activation function : sigmoid, relu, softmax
 
 ## PGIS_Prediction_Model_W5.h5
-This model aimed to predict the Winner of the Weekly Final Week6  
-Based on the results of PGI.S matches until Week5  
+This model aimed to predict the winner of the PGI.S Weekly Final Week6.  
+Based on the results of matches until Week5  
 Rank Decision, Bottom 16, Weekly Final data used (Super Rule Games Only)  
 272 Rank data used  
 30,000 epochs completed  
