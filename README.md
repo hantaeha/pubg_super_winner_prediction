@@ -91,4 +91,4 @@ You can use Google Colab to try to make direct prediction.
   
 Google Colabe 환경을 사용해서 직접 예측하실 수 있습니다.  
   
-Link : [PUBG WINNER PREDICTION (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing)
+Link : [PUBG WINNER PREDICTION (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing) 
