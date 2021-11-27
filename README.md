@@ -93,6 +93,24 @@ PGI.S 2021 Week6
 |2|SQ|ZEN|
 |3|FAZE|MCG|
 |4|IFTY|4AM|
+
+PGC 2021 Week1  
+|RANK|PREDICTION|RESULT|
+|---|---|---|
+|1|ENCE|TBD|
+|2|GEN|TBD|
+|3|FURY|TBD|
+|4|TL|TBD|  
+PGIS_W5_Prediction_Model.h5  
+  
+PGC 2021 Week1  
+|RANK|PREDICTION|RESULT|
+|---|---|---|
+|1|ENCE|TBD|
+|2|GEN|TBD|
+|3|TL|TBD|
+|4|OATH|TBD|  
+PGIS_ESL_Prediction_Model.h5  
   
 # Demo (Google Colab) 
   
@@ -100,8 +118,9 @@ You can make direct predictions using the Google Colab environment.
   
 Google Colab 환경에서 직접 예측하실 수 있습니다.  
   
-Link : [PUBG Super Rule Winner Prediction (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing) 
-  
+Link : [PUBG Super Rule Winner Prediction (Google Colab)](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing)  
+Attachment : [Prediction Format Sheet](https://docs.google.com/spreadsheets/d/1BS1k9RSjcRc8ogW5Yf6vVraSqg4jPZPPmJN266yQXI8/edit?usp=sharing) 
+       
 # Future Plan
   
 Creating a Prediction Model by Map (Miramar & Erangel)  
