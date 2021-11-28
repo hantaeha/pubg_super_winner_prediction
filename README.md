@@ -93,25 +93,18 @@ PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring ê
 |2|SQ|ZEN|
 |3|FAZE|MCG|
 |4|IFTY|4AM|
-
+  
+Model : PGIS_W5_Prediction_Model.h5  
+  
 ### PGC 2021 Week1  
 |RANK|PREDICTION|RESULT|
 |---|---|---|
-|1|ENCE|TBD|
-|2|GEN|TBD|
-|3|FURY|TBD|
-|4|TL|TBD|
+|1|ENCE|KPI|
+|2|GEN|GBL|
+|3|TL|OATH|
+|4|OATH|TL|
   
-PGIS_W5_Prediction_Model.h5  
-  
-|RANK|PREDICTION|RESULT|
-|---|---|---|
-|1|ENCE|TBD|
-|2|GEN|TBD|
-|3|TL|TBD|
-|4|OATH|TBD|
-  
-PGIS_ESL_Prediction_Model.h5  
+Model : PGIS_ESL_Prediction_Model.h5  
   
 # Demo (Google Colab) 
   
