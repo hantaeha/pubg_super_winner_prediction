@@ -117,7 +117,7 @@ Attachment : [Prediction Format Sheet](https://docs.google.com/spreadsheets/d/1B
        
 # Future Plan
   
-Creating a Prediction Model by Map (Miramar & Erangel)  
+Creating a Prediction Model by Maps (Miramar & Erangel)  
 Creating a Prediction Model optimized for the 'WWCD Format'  
    
 맵별 예측 모델 생성 (미라마 & 에란겔)  
