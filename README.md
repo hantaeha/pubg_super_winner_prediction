@@ -3,7 +3,7 @@
 This project aims to predict the final top 4 teams of [PUBG](https://www.pubgesports.com/) e-sports game using the Machine learning technology.  
 It was created based on [Super Rule](Introduction/super_v3_0_0.pdf).  
 ('WWCD Format' Games are also possible)  
-Users can use this Machine learning Model to compare the overall power of participating teams.  
+You can use this Machine learning Model to compare the overall power of participating teams.  
 This project can be used for Pick'em Challange's Top 4 Prediction event.  
   
 이 프로젝트는 머신러닝 기술을 사용하여 PUBG 이스포츠의 최종 상위 4팀을 예측합니다.  
