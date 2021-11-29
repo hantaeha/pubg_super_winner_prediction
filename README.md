@@ -1,16 +1,16 @@
-# ML-BASED PUBG 'SUPER RULE' WINNER PREDICTION  
+# ML-BASED PUBG 'SUPER RULE' TOP4 PREDICTION  
 
-This project aims to predict the final winner of [PUBG](https://www.pubgesports.com/) e-sports using Machine Learning technology.  
+This project aims to predict the final top 4 teams of [PUBG](https://www.pubgesports.com/) e-sports game using the Machine learning technology.  
 It was created based on [Super Rule](Introduction/super_v3_0_0.pdf).  
 ('WWCD Format' Games are also possible)  
-Users can use this Machine Learning Model to compare the overall power of participating teams.  
-This project can also be used for Pick'em Challange's Top 4 Prediction event.  
+Users can use this Machine learning Model to compare the overall power of participating teams.  
+This project can be used for Pick'em Challange's Top 4 Prediction event.  
   
-이 프로젝트는 머신러닝 기술을 사용하여 PUBG 이스포츠의 최종 우승자를 예측합니다.  
+이 프로젝트는 머신러닝 기술을 사용하여 PUBG 이스포츠의 최종 상위 4팀을 예측합니다.  
 [Super Rule](Introduction/super_v3_0_0.pdf)을 기반으로 제작되었습니다.  
 ('WWCD 포맷' 경기에도 사용 가능합니다)  
 본 머신러닝 모델로 참가 팀의 전반적인 전력을 비교할 수 있습니다.  
-이 프로젝트는 Pick'em Challange의 Top4 예측 이벤트에도 사용될 수 있습니다.  
+이 프로젝트는 Pick'em Challange의 Top 4 예측 이벤트에 사용될 수 있습니다.  
   
 # Required Environment  
 - Python 3.6.13
@@ -54,7 +54,7 @@ It was created based on the results until PGI.S Week5('Super Rule' games Only).
 272 data used.  
 30,000 epochs completed.  
   
-이 모델은 PGI.S 2021 Weekly Final 6주 차의 최종 승자 예측을 목표로 합니다.  
+이 모델은 PGI.S 2021 Weekly Final 6주 차의 상위 4팀 예측을 목표로 합니다.  
 PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다(Super Rule 게임만).  
 272개의 데이터가 사용되었습니다.  
 30,000번 학습되었습니다.  
