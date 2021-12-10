@@ -125,7 +125,7 @@ You can make direct predictions using the Google Colab environment.
 Google Colab 환경에서 직접 예측하실 수 있습니다.  
   
 Google Colab Link : [PUBG Super Rule Winner Prediction](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing)  
-Prediction Foramt Sheet : [Prediction Format Sheet](https://docs.google.com/spreadsheets/d/1BS1k9RSjcRc8ogW5Yf6vVraSqg4jPZPPmJN266yQXI8/edit?usp=sharing)  
+Prediction Format Sheet : [Prediction Format Sheet](https://docs.google.com/spreadsheets/d/1BS1k9RSjcRc8ogW5Yf6vVraSqg4jPZPPmJN266yQXI8/edit?usp=sharing)  
 PGC 2021 Logfile : [PGC 2021 Logs](https://docs.google.com/spreadsheets/d/1P-AcOAdprDz88VZLE3pAafsXZadtaPIR1kEyflPmATw/edit?usp=sharing)  
   
 # Future Plan
