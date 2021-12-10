@@ -118,6 +118,16 @@ Model : PGIS_ESL_Prediction_Model.h5
   
 Model : PGIS_ESL_Prediction_Model.h5    
   
+### PGC 2021 Week 3 Final  
+|RANK|PREDICTION|RESULT|
+|---|---|---|
+|1|NH|TBD|
+|2|OATH|TBD|
+|3|TL|TBD|
+|4|GBL|TBD|
+  
+Model : PGIS_ESL_Prediction_Model.h5    
+  
 # Demo (Google Colab) 
   
 You can predict the results using the Google Colab environment.  
