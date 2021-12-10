@@ -120,7 +120,7 @@ Model : PGIS_ESL_Prediction_Model.h5
   
 # Demo (Google Colab) 
   
-You can make direct predictions using the Google Colab environment.  
+You can predict the results using the Google Colab environment.  
   
 Google Colab 환경에서 직접 예측하실 수 있습니다.  
   
@@ -133,6 +133,8 @@ PGC 2021 Logfile : [PGC 2021 Logs](https://docs.google.com/spreadsheets/d/1P-AcO
   
 Creating a Prediction Model by Maps (Miramar & Erangel)  
 Creating a Prediction Model optimized for the 'WWCD Format'  
+Adding the data of PGC 2021 games to the New Prediction Model
    
 맵별 예측 모델 생성 (미라마 & 에란겔)  
 'WWCD 포맷'에 최적화된 예측 모델 생성  
+PGC 2021 데이터를 추가한 새로운 모델 생성
