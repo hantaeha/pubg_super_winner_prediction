@@ -128,6 +128,16 @@ Model : PGIS_ESL_Prediction_Model.h5
   
 Model : PGIS_ESL_Prediction_Model.h5    
   
+### PGC 2021 Grand Final  
+|RANK|PREDICTION|RESULT|
+|---|---|---|
+|1|TBD|TBD|
+|2|TBD|TBD|
+|3|TBD|TBD|
+|4|TBD|TBD|
+  
+Model : PGIS_ESL_Prediction_Model.h5      
+  
 # Demo (Google Colab) 
   
 You can predict the results using the Google Colab environment.  
