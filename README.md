@@ -60,7 +60,7 @@ PGI.S 5주 차까지의 경기 데이터를 기반으로 제작되었습니다(S
 30,000번 학습되었습니다.  
   
 ![image](Introduction/PGIS_W5_Prediction_Model.png)  
-[PGIS_W5_Prediction_Model Download](Model/PGIS_W5_Prediction_Model.h5)  
+Model Download Link : [PGIS_W5_Prediction_Model Download](Model/PGIS_W5_Prediction_Model.h5)  
   
 ### Model 2. PGIS_ESL_Prediction_Model.h5
 Extended model of 'PGIS_W5_Prediction_Model.h5'.  
@@ -74,7 +74,7 @@ PGI.S, ESL PUBG Masters: Americas Phase 1, ESL PUBG Masters 2021 Europe Spring �
 50,000번 학습되었습니다.  
   
 ![image](Introduction/PGIS_ESL_Prediction_Model.png)  
-[PGIS_ESL_Prediction_Model Download](Model/PGIS_ESL_Prediction_Model.h5)  
+Model Download Link : [PGIS_ESL_Prediction_Model Download](Model/PGIS_ESL_Prediction_Model.h5)  
   
 # Results  
   
