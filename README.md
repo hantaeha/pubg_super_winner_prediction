@@ -128,8 +128,9 @@ Google Colab Link : [PUBG Super Rule Winner Prediction](https://colab.research.g
 Prediction Format Sheet : [Prediction Format Sheet](https://docs.google.com/spreadsheets/d/1BS1k9RSjcRc8ogW5Yf6vVraSqg4jPZPPmJN266yQXI8/edit?usp=sharing)  
   
 PGC 2021 Logfile : [PGC 2021 Logs](https://docs.google.com/spreadsheets/d/1P-AcOAdprDz88VZLE3pAafsXZadtaPIR1kEyflPmATw/edit?usp=sharing)  
+PGC 2021 Prediction Format : [PGC 2021 Prediction Format Sheet](https://docs.google.com/spreadsheets/d/1YD3XXJyhQj73Bj-hpjKQkfP-_pNZvLpzB9sYmnUnhYc/edit?usp=sharing)  
   
-# Future Plan
+# Future Plan  
   
 Creating a Prediction Model by Maps (Miramar & Erangel)  
 Creating a Prediction Model optimized for the 'WWCD Format'  
