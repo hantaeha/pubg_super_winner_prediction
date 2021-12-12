@@ -121,10 +121,10 @@ Model : PGIS_ESL_Prediction_Model.h5
 ### PGC 2021 Week 3 Final  
 |RANK|PREDICTION|RESULT|
 |---|---|---|
-|1|NH|TBD|
-|2|OATH|TBD|
-|3|TL|TBD|
-|4|GBL|TBD|
+|1|***NH***|GEN|
+|2|OATH|NAVI|
+|3|TL|***NH***|
+|4|GBL|GEX|
   
 Model : PGIS_ESL_Prediction_Model.h5    
   
