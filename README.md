@@ -131,12 +131,22 @@ Model : PGIS_ESL_Prediction_Model.h5
 ### PGC 2021 Grand Final  
 |RANK|PREDICTION|RESULT|
 |---|---|---|
-|1|TBD|TBD|
-|2|TBD|TBD|
-|3|TBD|TBD|
-|4|TBD|TBD|
+|1|GEN|TBD|
+|2|NH|TBD|
+|3|ENCE|TBD|
+|4|GBL|TBD|
   
 Model : PGIS_ESL_Prediction_Model.h5      
+
+### PGC 2021 Grand Final (Until the Day 1 of Grand Final) 
+|RANK|PREDICTION|RESULT|
+|---|---|---|
+|1|NH|TBD|
+|2|ENCE|TBD|
+|3|TL|TBD|
+|4|GEN|TBD|
+  
+Model : PGIS_ESL_Prediction_Model.h5     
   
 # Demo (Google Colab) 
   
