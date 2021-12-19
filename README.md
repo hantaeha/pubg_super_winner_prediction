@@ -126,16 +126,6 @@ Model : PGIS_ESL_Prediction_Model.h5
 |3|TL|***NH***|
 |4|GBL|GEX|
   
-Model : PGIS_ESL_Prediction_Model.h5    
-  
-### PGC 2021 Grand Final  
-|RANK|PREDICTION|RESULT|
-|---|---|---|
-|1|GEN|***NH***|
-|2|***NH***|HERO|
-|3|ENCE|VP|
-|4|GBL|TSM|
-  
 Model : PGIS_ESL_Prediction_Model.h5      
 
 ### PGC 2021 Grand Final (+ Day 1 of Grand Final) 
