@@ -138,7 +138,7 @@ Model : PGIS_ESL_Prediction_Model.h5
   
 Model : PGIS_ESL_Prediction_Model.h5      
 
-### PGC 2021 Grand Final (Until the Day 1 of Grand Final) 
+### PGC 2021 Grand Final (+ Day 1 of Grand Final) 
 |RANK|PREDICTION|RESULT|
 |---|---|---|
 |1|***NH***|***NH***|
