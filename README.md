@@ -152,8 +152,8 @@ PGC 2021 Prediction Format : [PGC 2021 Prediction Format Sheet](https://docs.goo
   
 # Future Plan  
   
-Creating a Prediction Model by Maps (Miramar & Erangel)  
-Creating a Prediction Model optimized for the 'WWCD Format'  
+Creating Prediction Models by Maps (Miramar & Erangel)  
+Creating Prediction Models optimized for the 'WWCD Format'  
 Adding the data of PGC 2021 games to the New Prediction Model
    
 맵별 예측 모델 생성 (미라마 & 에란겔)  
