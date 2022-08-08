@@ -46,7 +46,7 @@ For more information about data, refer to 'Sheet' & 'Train_Data' folders.
 - Sequential Model
 - Activation Functions : Sigmoid, ReLu, Softmax  
   
-![image](Introduction/Model.png)  
+![image](model/model.png)  
   
 ### Model 1. PGIS_W5_Prediction_Model.h5
 This model aimed to predict the winner of the PGI.S 2021 Weekly Final Week6.  
