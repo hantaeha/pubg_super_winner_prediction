@@ -1,0 +1,7 @@
+[server]
+port = 80
+
+[theme]
+base="dark"
+font="serif"
+textColor="#00FF41"
