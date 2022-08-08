@@ -1,15 +1,10 @@
 streamlit==1.11.1
 streamlit-drawable-canvas==0.9.1
 pandas==1.4.3
-scikit-learn @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_c0267ca0-12ff-4800-bd07-7f998adef27bh_cts5yf/croots/recipe/scikit-learn_1658419411147/work
-scipy @ file:///Users/ktietz/ci_310/scipy_1644255974431/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
-tensorflow @ file:///Users/uwe/Development/conda-forge/tensorflow-feedstock/tensorflow-feedstock-osx_arm64_numpy1.19python3.8.____cpython/miniforge3/conda-bld/tensorflow-split_1644043531407/work/tensorflow_pkg/tensorflow-2.7.0-cp38-cp38-macosx_11_0_arm64.whl
 tensorflow-datasets==4.6.0
-tensorflow-estimator @ file:///Users/uwe/Development/conda-forge/tensorflow-feedstock/tensorflow-feedstock-osx_arm64_numpy1.19python3.8.____cpython/miniforge3/conda-bld/tensorflow-split_1644043531407/work/tensorflow-estimator/wheel_dir/tensorflow_estimator-2.7.0-py2.py3-none-any.whl
 tensorflow-macos==2.9.2
 tensorflow-metadata==1.9.0
 tensorflow-metal==0.5.0
