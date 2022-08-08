@@ -52,7 +52,7 @@ Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)
 500 번 학습되었습니다.  
   
 ![image](Introduction/acc.png)  
-![image](Introduction/val.png)  
+![image](Introduction/loss.png)  
   
 # Results  
   
