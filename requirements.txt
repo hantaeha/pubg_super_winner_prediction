@@ -2,3 +2,4 @@ tensorflow==2.9.0
 streamlit==0.73.1
 pandas==1.1.4
 Pillow==8.2.0
+scikit-learn
