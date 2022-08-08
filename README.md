@@ -12,8 +12,8 @@ Super Rule을 기반으로 제작되었습니다.
   
 # Required Environment  
 - Python 3.8.13
-- Tensorflow 2.0.0
-- Keras 2.3.1
+- Tensorflow 2.9.2 macos
+- Keras 2.7.0
   
 # Data  
 'Mean value of Place Points & Standardization', 'Mean value of Kill Points & Standardization' and 'Rank' were used as training data. 
@@ -78,8 +78,7 @@ You can predict the results using the Web App environment.
   
 웹 환경에서 직접 예측하실 수 있습니다.  
   
-Google Colab Link : [PUBG Super Rule Winner Prediction](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing)  
-Prediction Format Sheet : [Prediction Format Sheet](https://docs.google.com/spreadsheets/d/1BS1k9RSjcRc8ogW5Yf6vVraSqg4jPZPPmJN266yQXI8/edit?usp=sharing)  
+Google Colab Link : [AI-Powered PUBG Winner Prediction](https://colab.research.google.com/drive/17Y2pWz-iTXwxVTYHqD-5v8V3-reOOaIh?usp=sharing)  
   
 # Future Plan  
   
