@@ -1,4 +1,4 @@
-import tensorflow-probability as tfp
+import tensorflow_probability as tfp
 import streamlit as st
 import numpy as np
 import pandas as pd
