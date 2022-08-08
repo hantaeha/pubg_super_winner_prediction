@@ -44,11 +44,11 @@ For more information about data, refer to 'data' folders.
   
 ### Model Info 
 Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)  
-1040 data used.  
+1,040 data used.  
 500 epochs completed.  
   
 데이터 : PGC2019, PGI.S2021, PGC2021 (수퍼룰 게임만)    
-1040 개의 데이터가 사용되었습니다.  
+1,040 개의 데이터가 사용되었습니다.  
 500 번 학습되었습니다.  
   
 ![image](Introduction/acc.png)  
