@@ -1,5 +1,3 @@
-numpy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ba5c3eaa-be93-4f42-ae24-fa720a3c6627m_sp7nbj/croots/recipe/numpy_and_numpy_base_1652801688716/work
-oauthlib==3.2.0
 streamlit==1.11.1
 streamlit-drawable-canvas==0.9.1
 pandas==1.4.3
