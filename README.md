@@ -12,7 +12,7 @@ Super Rule을 기반으로 제작되었습니다.
   
 # Required Environment  
 - Python 3.8.13
-- Tensorflow 2.9.2 macos
+- Tensorflow 2.9.0 macos
 - Keras 2.7.0
   
 # Data  
@@ -48,7 +48,7 @@ Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)
 500 epochs completed.  
   
 데이터 : PGC2019, PGI.S2021, PGC2021 (수퍼룰 게임만)    
-1040개의 데이터가 사용되었습니다.  
+1040 개의 데이터가 사용되었습니다.  
 500 번 학습되었습니다.  
   
 ![image](Introduction/acc.png)  
