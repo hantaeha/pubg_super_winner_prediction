@@ -1,7 +1,8 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from tensorflow import keras
+import tensorflow as tf
+import keras
 from sklearn.preprocessing import StandardScaler
 
 hide_menu_style = """
