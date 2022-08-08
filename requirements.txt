@@ -115,7 +115,7 @@ parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
 Pillow @ file:///Users/runner/miniforge3/conda-bld/pillow_1636559170621/work
-pipenv @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_ad14aa9c-0d61-430f-845c-057c5c70124977918c3o/croots/recipe/pipenv_1657899050326/work
+pipenv @ file:///home/conda/feedstock_root/build_artifacts/pipenv_1659732772729/work
 platformdirs==2.5.2
 prometheus-client @ file:///opt/conda/conda-bld/prometheus_client_1643788673601/work
 promise==2.3
@@ -155,7 +155,7 @@ scipy @ file:///Users/ktietz/ci_310/scipy_1644255974431/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
 semver @ file:///tmp/build/80754af9/semver_1603822362442/work
 Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
-six==1.15.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
 smmap==5.0.0
 sniffio @ file:///Users/ktietz/demo/mc3/conda-bld/sniffio_1629145892482/work
 soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
