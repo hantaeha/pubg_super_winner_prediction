@@ -1,4 +1,4 @@
-# ML-BASED PUBG 'SUPER RULE' TOP4 PREDICTION  
+# AI-Powered PUBG Winner Prediction 
 
 This project aims to predict the final top 4 teams of [PUBG](https://www.pubgesports.com/) e-sports game using the Machine learning technology.  
 It was created based on [Super Rule](Introduction/super_v3_0_0.pdf).  
