@@ -72,7 +72,7 @@ Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)
 |3|TL|VP|
 |4|GEN|TSM|  
   
-### PGC 2022 Grand Final (Initial Prediction Model) 
+### PGC 2022 Grand Final (Latest Model) 
 |RANK|PREDICTION|RESULT|
 |---|---|---|
 |1|***TBD***|***TBD***|
