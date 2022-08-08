@@ -1,7 +1,7 @@
-import tensorflow_probability as tfp
 import streamlit as st
 import numpy as np
 import pandas as pd
+import tensorflow as tf
 from sklearn.preprocessing import StandardScaler
 
 hide_menu_style = """
@@ -220,7 +220,7 @@ df = pd.DataFrame({
 
 df = df.set_index('RANK')
 
-model = keras.models.load_model("model/prediction_model.h5")
+model = tf.keras.models.load_model("model/prediction_model.h5")
 
 def rank_prediction():
     dataset = df.values
