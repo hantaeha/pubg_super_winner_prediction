@@ -78,7 +78,7 @@ You can predict the results using the Web App environment.
   
 웹 환경에서 직접 예측하실 수 있습니다.  
   
-Google Colab Link : [AI-Powered PUBG Winner Prediction](https://hantaeha-pubg-super-winner-prediction-pubg-prediction-fj8jxf.streamlitapp.com/)  
+Web App Link : [AI-Powered PUBG Winner Prediction](https://hantaeha-pubg-super-winner-prediction-pubg-prediction-fj8jxf.streamlitapp.com/)  
   
 # Future Plan  
   
