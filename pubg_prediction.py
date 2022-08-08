@@ -246,7 +246,7 @@ def rank_prediction():
             final_prediction_team_name.append(result_all[i][1])
     final_prediction = pd.DataFrame({"RANK":final_prediction_rank, "TEAM NAME":final_prediction_team_name})
     final_prediction = final_prediction.set_index('RANK')
-    st.dataframe(final_prediction)
+    st.dataframe(final_prediction,512,512)
 
     return
 
