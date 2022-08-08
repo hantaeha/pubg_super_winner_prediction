@@ -1,6 +1,6 @@
 # AI-Powered PUBG Winner Prediction 
 
-This project aims to predict the final top 4 teams of [PUBG](https://www.pubgesports.com/) e-sports game using Machine learning technology.  
+This project aims to predict the final top 4 teams of [PUBG](https://www.pubgesports.com/) e-sports game using Machine Learning Technology.  
 It was created based on Super Rule.  
 You can use this Machine learning Model to compare the overall power of participating teams.  
 This project can be used for Pick'em Challange's Top 4 Prediction event.  
