@@ -220,7 +220,7 @@ df = pd.DataFrame({
 
 df = df.set_index('RANK')
 
-model = keras.models.load_model("Model/prediction_model.h5")
+model = keras.models.load_model("model/prediction_model.h5")
 
 def rank_prediction():
     dataset = df.values
