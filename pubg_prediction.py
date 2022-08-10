@@ -4,6 +4,8 @@ import pandas as pd
 import tensorflow as tf
 from sklearn.preprocessing import StandardScaler
 
+st.set_page_config(layout="wide")
+
 hide_menu_style = """
         <style>
         #MainMenu {visibility: hidden;}
