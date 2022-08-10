@@ -246,4 +246,4 @@ st.title("Who's the Winner?")
 if st.button("PREDICT NOW"):
     rank_prediction()
 else:
-    st.write("GOOD LUCK!")
+    st.write("")
