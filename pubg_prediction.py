@@ -241,7 +241,7 @@ def rank_prediction():
 st.markdown("""---""")
 st.title("Who's the Winner?")
 
-if st.button("PREDICT NOW!"):
+if st.button("PREDICT NOW"):
     rank_prediction()
 else:
-    st.write("GOOD LUCK")
+    st.write("GOOD LUCK!")
