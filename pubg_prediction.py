@@ -35,7 +35,7 @@ total_rounds = st.number_input("NUMBER OF MATCHES PLAYED SO FAR",1)
 st.markdown("""---""")
 
 st.subheader("RESULTS")
-with st.expander("ENTER THE RESULTS FOR EACH TEAM SO FAR"):
+with st.expander("ENTER THE RESULTS OF EACH TEAM"):
     tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12, tab13, tab14, tab15, tab16 = st.tabs(["TEAM01", "TEAM02", "TEAM03", "TEAM04", "TEAM05", "TEAM06", "TEAM07", "TEAM08", "TEAM09", "TEAM10", "TEAM11", "TEAM12", "TEAM13", "TEAM14", "TEAM15", "TEAM16"])
     with tab1:
         st.subheader("TEAM01")
