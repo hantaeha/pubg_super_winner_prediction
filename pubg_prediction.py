@@ -24,16 +24,18 @@ def standardization(data):
     return standardized_data
 
 st.title("AI-Powered PUBG Winner Prediction")
-st.subheader("& Top4 Prediction for Pick'em Challange (Super Rule Only)")
+st.subheader("& Top4 Prediction for Pick'em Challange")
+st.subheader("Super Rule Games Only")
 
 st.markdown("""---""")
 
 st.subheader("MATCHES")
-total_rounds = st.number_input("MATCHES PLAYED SO FAR (Before the Pick'em Challange ends)",1)
+total_rounds = st.number_input("NUMBER OF MATCHES PLAYED SO FAR",1)
 
 st.markdown("""---""")
 
-with st.expander("INPUT RESULT"):
+st.subheader("RESULTS")
+with st.expander("ENTER THE RESULTS FOR EACH TEAM SO FAR"):
     tab1, tab2, tab3, tab4, tab5, tab6, tab7, tab8, tab9, tab10, tab11, tab12, tab13, tab14, tab15, tab16 = st.tabs(["TEAM01", "TEAM02", "TEAM03", "TEAM04", "TEAM05", "TEAM06", "TEAM07", "TEAM08", "TEAM09", "TEAM10", "TEAM11", "TEAM12", "TEAM13", "TEAM14", "TEAM15", "TEAM16"])
     with tab1:
         st.subheader("TEAM01")
@@ -188,8 +190,8 @@ PLACE_STANDARDIZED = standardization(PLACE_AVERAGE)
 df_show = pd.DataFrame({
                     'RANK':['1','2','3','4','5','6','7','8','9','10','11','12','13','14','15','16'],
                     'TEAM':[team01, team02, team03, team04, team05, team06, team07, team08, team09, team10, team11, team12, team13, team14, team15, team16],
-                    'KILL':[team01_killpt_avearage, team02_killpt_avearage, team03_killpt_avearage, team04_killpt_avearage,team05_killpt_avearage,team06_killpt_avearage,team07_killpt_avearage,team08_killpt_avearage,team09_killpt_avearage,team10_killpt_avearage,team11_killpt_avearage,team12_killpt_avearage,team13_killpt_avearage,team14_killpt_avearage,team15_killpt_avearage,team16_killpt_avearage],
-                    'PLACE':[team01_placept_average,team02_placept_average,team03_placept_average,team04_placept_average,team05_placept_average,team06_placept_average,team07_placept_average,team08_placept_average,team09_placept_average,team10_placept_average,team11_placept_average,team12_placept_average,team13_placept_average,team14_placept_average,team15_placept_average,team16_placept_average]
+                    'KILL AVERAGE':[team01_killpt_avearage, team02_killpt_avearage, team03_killpt_avearage, team04_killpt_avearage,team05_killpt_avearage,team06_killpt_avearage,team07_killpt_avearage,team08_killpt_avearage,team09_killpt_avearage,team10_killpt_avearage,team11_killpt_avearage,team12_killpt_avearage,team13_killpt_avearage,team14_killpt_avearage,team15_killpt_avearage,team16_killpt_avearage],
+                    'PLACE AVERAGE':[team01_placept_average,team02_placept_average,team03_placept_average,team04_placept_average,team05_placept_average,team06_placept_average,team07_placept_average,team08_placept_average,team09_placept_average,team10_placept_average,team11_placept_average,team12_placept_average,team13_placept_average,team14_placept_average,team15_placept_average,team16_placept_average]
                     })
 
 df_show = df_show.set_index('RANK')
@@ -229,10 +231,10 @@ def rank_prediction():
             final_prediction_team_name.append(result_all[i][1])
     final_prediction = pd.DataFrame({"RANK":final_prediction_rank, "TEAM NAME":final_prediction_team_name})
     final_prediction = final_prediction.set_index('RANK')
-    st.subheader("CURRENT STATE")
-    st.dataframe(df_show, 512, 512)
-    st.subheader("PREDICTION")
-    st.dataframe(final_prediction,512,512)
+    st.subheader("CURRENT RESULT")
+    st.table(df_show)
+    st.subheader("PREDICTION RESULT")
+    st.table(final_prediction)
 
     return
 
