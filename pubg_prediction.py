@@ -3,6 +3,7 @@ import numpy as np
 import pandas as pd
 import tensorflow as tf
 from sklearn.preprocessing import StandardScaler
+import time
 
 st.set_page_config(layout="wide")
 
@@ -233,6 +234,12 @@ def rank_prediction():
             final_prediction_team_name.append(result_all[i][1])
     final_prediction = pd.DataFrame({"RANK":final_prediction_rank, "TEAM NAME":final_prediction_team_name})
     final_prediction = final_prediction.set_index('RANK')
+    
+    progress_bar = st.progress(0)
+    for percent_complete in range(100):
+        time.sleep(0.02)
+        progress_bar.progress(percent_complete + 1)
+    
     st.subheader("CURRENT RESULT")
     st.table(df_show)
     st.subheader("PREDICTION RESULT")
