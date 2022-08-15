@@ -26,6 +26,20 @@ def standardization(data):
     standardized_data = (data-np.mean(data,axis=0))/np.std(data, axis=0)
     return standardized_data
 
+with st.sidebar:
+    st.write("HOW TO PREDICT?")
+
+    st.write("* MATCHES")
+    st.write("Enter the number of matches played so far (Before the Pick'em Challange ends)")
+    st.success( "ex.) 5 matches")
+    
+    st.write("* RESULTS")
+    st.write("Enter the results of each team (Team name, Kill Points, Total Points)")
+    st.success( "ex.) Team name - GEN, Kill Points : 18, Total Points : 30")
+
+    st.write("* Who's the Winner?")
+    st.write('Click the "PREDICT NOW" button for prediction')
+
 st.title("AI-Powered PUBG Winner Prediction")
 st.subheader("& Top4 Prediction for Pick'em Challange")
 st.subheader("Super Rule Games Only")
