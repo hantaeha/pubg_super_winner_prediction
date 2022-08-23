@@ -51,8 +51,7 @@ Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)
 1,040 개의 데이터가 사용되었습니다.  
 1,000 번 학습되었습니다.  
   
-![image](Introduction/acc.png)  
-![image](Introduction/loss.png)  
+![image](Introduction/acc.png)    
   
 # Results  
   
