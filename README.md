@@ -45,11 +45,11 @@ For more information about data, refer to 'data' folders.
 ### Model Info 
 Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)  
 1,040 data used.  
-1,000 epochs completed.  
+1,000 epochs completed.  (Validation Accuracy : 50.64%)    
   
 데이터 : PGC2019, PGI.S2021, PGC2021 (수퍼룰 게임만)    
 1,040 개의 데이터가 사용되었습니다.  
-1,000 번 학습되었습니다.  
+1,000 번 학습되었습니다. (Validation Accuracy : 50.64%)  
   
 ![image](Introduction/acc.png)    
   
