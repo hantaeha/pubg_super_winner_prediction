@@ -77,8 +77,7 @@ Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)
 |1|***KDF***|***KDF***|
 |2|***DNW***|***DNW***|
 |3|***DK***|***DK***|
-|4|***GEN***|***GEN***|  
-|5|***GBL***|***GBL***|  
+|4|***GEN***|***GEN***|   
  
 ### PGC 2022 Grand Final (Latest Prediction Model) 
 |RANK|PREDICTION|RESULT|
