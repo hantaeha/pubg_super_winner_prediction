@@ -71,7 +71,7 @@ Data : PGC2019, PGI.S2021, PGC2021 (Super Rule Game Olny)
 |3|TL|VP|
 |4|GEN|TSM|  
  
-### 2022 PWS : Phase 2 Grand Final Day 4 (Latest Prediction Model) 
+### 2022 PWS : Phase 2 Grand Final : Day 4 (Latest Prediction Model) 
 |RANK|PREDICTION|RESULT|
 |---|---|---|
 |1|***KDF***|***KDF***|
